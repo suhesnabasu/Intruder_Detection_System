@@ -1,0 +1,4 @@
+imutils
+opencv-python
+python-dotenv
+numpy
